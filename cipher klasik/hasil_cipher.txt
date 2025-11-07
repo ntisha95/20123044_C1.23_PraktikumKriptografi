@@ -1,0 +1,4 @@
+=== Hasil Caesar Cipher ===
+Teks asli     : informatika
+Hasil enkripsi: lqirupdwlnd
+Hasil dekripsi: informatika
