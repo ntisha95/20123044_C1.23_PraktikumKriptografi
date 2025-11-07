@@ -1,0 +1,5 @@
+=== HASIL PLAYFAIR CIPHER ===
+Kunci        : key
+Teks Asli    : hello world
+Hasil Enkripsi: DBNVMIZMQMGV
+Hasil Dekripsi: HELXLOWORLDX
